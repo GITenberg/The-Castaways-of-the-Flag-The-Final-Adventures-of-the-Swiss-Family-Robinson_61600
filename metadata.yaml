@@ -1,0 +1,41 @@
+_repo: The-Castaways-of-the-Flag-The-Final-Adventures-of-the-Swiss-Family-Robinson_61600
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Murphy, Henry Cruse
+    alias: Murphy, H. C. (Henry Cruse)
+    birthdate: 1810
+    deathdate: 1882
+    gutenberg_agent_id: '1749'
+    url: http://www.gutenberg.org/2009/agents/1749
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cruse_Murphy
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: ''
+gutenberg_issued: '2020-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Castaways of the Flag
+
+  The Final Adventures of the Swiss Family Robinson'
+url: http://www.gutenberg.org/ebooks/61600
